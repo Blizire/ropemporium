@@ -2,6 +2,7 @@
 https://ropemporium.com/challenge/write4.html
 
 Use **checksec** to see protections on the binary.
+
 ![checksec results](imgs/1.png)
 
 Check for strings in the binary now using rabin2 -z ./write4
